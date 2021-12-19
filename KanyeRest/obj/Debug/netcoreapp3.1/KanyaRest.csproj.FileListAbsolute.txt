@@ -1,0 +1,16 @@
+C:\Users\britt\OneDrive\Desktop\repos\KanyaRest\KanyaRest\bin\Debug\netcoreapp3.1\KanyaRest.exe
+C:\Users\britt\OneDrive\Desktop\repos\KanyaRest\KanyaRest\bin\Debug\netcoreapp3.1\KanyaRest.deps.json
+C:\Users\britt\OneDrive\Desktop\repos\KanyaRest\KanyaRest\bin\Debug\netcoreapp3.1\KanyaRest.runtimeconfig.json
+C:\Users\britt\OneDrive\Desktop\repos\KanyaRest\KanyaRest\bin\Debug\netcoreapp3.1\KanyaRest.runtimeconfig.dev.json
+C:\Users\britt\OneDrive\Desktop\repos\KanyaRest\KanyaRest\bin\Debug\netcoreapp3.1\KanyaRest.dll
+C:\Users\britt\OneDrive\Desktop\repos\KanyaRest\KanyaRest\bin\Debug\netcoreapp3.1\KanyaRest.pdb
+C:\Users\britt\OneDrive\Desktop\repos\KanyaRest\KanyaRest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\britt\OneDrive\Desktop\repos\KanyaRest\KanyaRest\obj\Debug\netcoreapp3.1\KanyaRest.csproj.AssemblyReference.cache
+C:\Users\britt\OneDrive\Desktop\repos\KanyaRest\KanyaRest\obj\Debug\netcoreapp3.1\KanyaRest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\britt\OneDrive\Desktop\repos\KanyaRest\KanyaRest\obj\Debug\netcoreapp3.1\KanyaRest.AssemblyInfoInputs.cache
+C:\Users\britt\OneDrive\Desktop\repos\KanyaRest\KanyaRest\obj\Debug\netcoreapp3.1\KanyaRest.AssemblyInfo.cs
+C:\Users\britt\OneDrive\Desktop\repos\KanyaRest\KanyaRest\obj\Debug\netcoreapp3.1\KanyaRest.csproj.CoreCompileInputs.cache
+C:\Users\britt\OneDrive\Desktop\repos\KanyaRest\KanyaRest\obj\Debug\netcoreapp3.1\KanyaRest.csproj.CopyComplete
+C:\Users\britt\OneDrive\Desktop\repos\KanyaRest\KanyaRest\obj\Debug\netcoreapp3.1\KanyaRest.dll
+C:\Users\britt\OneDrive\Desktop\repos\KanyaRest\KanyaRest\obj\Debug\netcoreapp3.1\KanyaRest.pdb
+C:\Users\britt\OneDrive\Desktop\repos\KanyaRest\KanyaRest\obj\Debug\netcoreapp3.1\KanyaRest.genruntimeconfig.cache
